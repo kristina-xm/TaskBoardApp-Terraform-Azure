@@ -1,8 +1,6 @@
 # ASP.NET Core Application Deployment to Azure using Terraform
 This repository provides the necessary steps and files to deploy a ready Task Board application to Azure using Terraform
 
-The app can be accessed on the following link: https://taskboard-45398.azurewebsites.net/
-
 ## Steps
 
 ### 1. Before Terraform configuration: Start the App in a Docker Instance
